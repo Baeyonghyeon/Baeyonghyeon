@@ -3,9 +3,20 @@
 <img src="https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=header&text=YonghyeonBae&fontSize=90" />
 
   # 📚 Tech Stack📚
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
+![Spring boot](https://img.shields.io/badge/Spring%20Boot-06AC38.svg?style=for-the-badge&logo=SpringBoot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring%20MVC-34E27A.svg?style=for-the-badge&logo=Spring&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring%20Data%20JPA-06AC38.svg?style=for-the-badge&logo=Spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=for-the-badge&logo=SpringSecurity&logoColor=white)
+
+![JPA](https://img.shields.io/badge/JPA-83DA77.svg?style=for-the-badge&logo=Hibernate&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white)
+
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+
 </br>
 </br>
 </br>
