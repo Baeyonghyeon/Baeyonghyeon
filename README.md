@@ -24,8 +24,6 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qodydgus97)](https://solved.ac/qodydgus97/)
 
-
-
   
 
 
